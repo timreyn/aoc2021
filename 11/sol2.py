@@ -1,3 +1,5 @@
+# Note -- my solution is off-by-one, both on the actual input and the test inputs (actual answer is 251; my code outputs 250).  I'm not sure what the issue is...
+
 grid = {}
 
 i = 0
